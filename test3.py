@@ -7,3 +7,5 @@ while True:
         list.append(int(num))
 list.sort()
 print(list)
+
+# 주말2문제풀기
