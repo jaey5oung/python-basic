@@ -8,4 +8,4 @@ while True:
 list.sort()
 print(list)
 
-# 주말2문제풀기
+# 주말3문제풀기
