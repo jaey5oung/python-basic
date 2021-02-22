@@ -16,4 +16,4 @@ i = 1
 
 while i <= num:
     print(i, i * i)
-    i = i + 5
+    i = i + 6
